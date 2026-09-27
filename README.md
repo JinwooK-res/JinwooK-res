@@ -14,21 +14,24 @@ Current interests include:
 
 ### [Microplastics Exposure Calculator](https://github.com/JinwooK-res/microplastics-exposure-calculator)
 
-A research-oriented prototype translating a published dietary microplastics exposure assessment into a transparent and testable computational workflow.
+A reproducible computational workflow translating a published dietary microplastics exposure assessment into a transparent and testable tool.
 
 - React dashboard + Streamlit companion
-- Explicit exposure and particle-mass calculations
+- Exposure and particle-mass calculations
 - Automated calculation tests
 - Optional AI-powered explanation layer
 
-### [Turquoise Hydrogen Demand NLP](https://github.com/JinwooK-res/turquoise-hydrogen-demand-nlp)
+### [Microplastic Exposure–Toxicity Knowledge Graph](https://github.com/JinwooK-res/microplastic-exposure-toxicity-kg)
 
-A fully synthetic NLP workflow for structuring industrial standardization and commercialization demands related to turquoise-hydrogen-derived carbon materials.
+An ontology-driven research project connecting **foodborne microplastic occurrence, particle characteristics, human exposure, and toxicological evidence**.
 
-- Synthetic industrial survey data
-- TF-IDF and NMF topic modeling
-- Rule-based demand taxonomy
-- Reproducible visualization workflow
+**Status:** Research design / data acquisition
+
+- RDF/OWL-based semantic integration
+- Exposure–toxicity evidence matching
+- SPARQL competency questions
+- Planned evidence-gap analysis
+- Study-level provenance and traceability
 
 ### [Environmental Proficiency Analysis](https://github.com/JinwooK-res/environmental-proficiency-analysis)
 
@@ -39,17 +42,26 @@ A publication-safe synthetic demonstration of interlaboratory VOC proficiency-te
 - Synthetic chamber and sampling-volume experiments
 - Reproducible QA/QC visualizations
 
+### [Turquoise Hydrogen Demand NLP](https://github.com/JinwooK-res/turquoise-hydrogen-demand-nlp)
+
+A fully synthetic NLP workflow for structuring industrial standardization and commercialization demands related to turquoise-hydrogen-derived carbon materials.
+
+- TF-IDF and NMF topic modeling
+- Rule-based demand taxonomy
+- Synthetic industrial survey data
+- Reproducible visualization workflow
+
 ## Research Direction
 
 I am interested in extending environmental exposure and risk assessment beyond individual datasets by integrating **exposure, toxicological, and health information into structured computational frameworks**.
 
-Current development focuses on ontology- and knowledge-graph-based environmental risk data integration.
+My current work focuses on developing ontology- and knowledge-graph-based approaches for **transparent, traceable, and reusable environmental risk data integration**.
 
 ## Background
 
 - M.S. in Environmental Science and Ecological Engineering, Korea University
 - Environmental testing and R&D experience at Korea Conformity Laboratories (KCL)
-- Research experience in microplastics analysis, human exposure assessment, VOC measurement, and environmental QA/QC
+- Research experience in microplastics, human exposure assessment, VOC measurement, and environmental QA/QC
 
 ## Links
 
