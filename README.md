@@ -1,10 +1,10 @@
 # Jinwoo Kim
 
-Environmental researcher working at the intersection of **exposure assessment, risk analysis, and computational environmental health**.
+Environmental researcher working on exposure assessment, risk analysis, and environmental data analysis.
 
-Current interests include:
+Current interests:
 
-- Environmental exposure & quantitative risk assessment
+- Environmental exposure and quantitative risk assessment
 - Emerging contaminants and microplastics
 - Environmental health data integration
 - Ontologies and knowledge graphs
@@ -12,56 +12,62 @@ Current interests include:
 
 ## Featured Projects
 
-### [Microplastics Exposure Calculator](https://github.com/JinwooK-res/microplastics-exposure-calculator)
+### [Microplastics Exposure Calculator](https://github.com/JinwooK-res/microplastic-exposure-calculator)
 
-A reproducible computational workflow translating a published dietary microplastics exposure assessment into a transparent and testable tool.
+A small computational tool for reproducing dietary microplastics exposure calculations from published data.
 
-- React dashboard + Streamlit companion
+- React dashboard and Streamlit interface
 - Exposure and particle-mass calculations
 - Automated calculation tests
-- Optional AI-powered explanation layer
+
+### [Carbon Black Demand NLP](https://github.com/JinwooK-res/carbon-black-demand-nlp)
+
+Text analysis of synthetic survey data related to carbon black demand and applications in the context of turquoise hydrogen production.
+
+- TF-IDF analysis
+- NMF topic extraction
+- Rule-based demand categories
+- Visualization of survey results
+
+### [VOC Proficiency Evaluation](https://github.com/JinwooK-res/voc-proficiency-evaluation)
+
+Python workflow for evaluating synthetic VOC proficiency-testing data and measurement variability.
+
+- TVOC and toluene proficiency metrics
+- Z-score and relative-error analysis
+- Chamber and sampling-volume variability
+- QA/QC visualizations
+
+### [Stock Return Forecasting](https://github.com/JinwooK-res/stock-return-forecasting)
+
+Machine-learning study of S&P 500 stock-return forecasting using walk-forward evaluation.
+
+- Random Forest and LightGBM
+- Out-of-sample evaluation
+- Top-10 portfolio backtesting
 
 ### [Microplastic Exposure–Toxicity Knowledge Graph](https://github.com/JinwooK-res/microplastic-exposure-toxicity-kg)
 
-An ontology-driven research project connecting **foodborne microplastic occurrence, particle characteristics, human exposure, and toxicological evidence**.
+Early-stage project for structuring links between microplastic occurrence, exposure, and toxicological evidence.
 
-**Status:** Research design / data acquisition
+Current work includes:
 
-- RDF/OWL-based semantic integration
-- Exposure–toxicity evidence matching
-- SPARQL competency questions
-- Planned evidence-gap analysis
-- Study-level provenance and traceability
+- RDF/OWL data modeling
+- Exposure–toxicity evidence mapping
+- SPARQL query design
+- Study-level provenance
 
-### [Environmental Proficiency Analysis](https://github.com/JinwooK-res/environmental-proficiency-analysis)
+## Research Interests
 
-A publication-safe synthetic demonstration of interlaboratory VOC proficiency-testing metrics and measurement variability.
+I am interested in using structured data and computational methods to support environmental exposure and risk assessment, particularly where information is distributed across different datasets and evidence sources.
 
-- TVOC and toluene proficiency metrics
-- Z-score and error-rate analysis
-- Synthetic chamber and sampling-volume experiments
-- Reproducible QA/QC visualizations
-
-### [Turquoise Hydrogen Demand NLP](https://github.com/JinwooK-res/turquoise-hydrogen-demand-nlp)
-
-A fully synthetic NLP workflow for structuring industrial standardization and commercialization demands related to turquoise-hydrogen-derived carbon materials.
-
-- TF-IDF and NMF topic modeling
-- Rule-based demand taxonomy
-- Synthetic industrial survey data
-- Reproducible visualization workflow
-
-## Research Direction
-
-I am interested in extending environmental exposure and risk assessment beyond individual datasets by integrating **exposure, toxicological, and health information into structured computational frameworks**.
-
-My current work focuses on developing ontology- and knowledge-graph-based approaches for **transparent, traceable, and reusable environmental risk data integration**.
+Current areas of interest include exposure data harmonization, ontology-based data integration, knowledge graphs, and quantitative risk analysis.
 
 ## Background
 
 - M.S. in Environmental Science and Ecological Engineering, Korea University
-- Environmental testing and R&D experience at Korea Conformity Laboratories (KCL)
-- Research experience in microplastics, human exposure assessment, VOC measurement, and environmental QA/QC
+- Environmental testing and R&D experience at Korea Conformity Laboratories
+- Research experience in microplastics, exposure assessment, VOC measurement, and environmental QA/QC
 
 ## Links
 
