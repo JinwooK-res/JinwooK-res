@@ -6,6 +6,14 @@ Current interests include environmental exposure, quantitative risk assessment, 
 
 ## Featured Projects
 
+### [Microplastics Exposure Calculator](https://github.com/JinwooK-res/microplastic-exposure-calculator)
+
+Computational tool for reproducing dietary microplastics exposure calculations from published data.
+
+- React dashboard and Streamlit interface
+- Exposure and particle-mass calculations
+- Automated calculation tests
+
 ### [Microplastic Exposure–Toxicity Knowledge Graph](https://github.com/JinwooK-res/microplastic-exposure-toxicity-kg)
 
 Early-stage project for structuring links between microplastic occurrence, exposure, and toxicological evidence.
@@ -14,14 +22,6 @@ Early-stage project for structuring links between microplastic occurrence, expos
 - Exposure–toxicity evidence mapping
 - SPARQL queries
 - Study-level provenance
-
-### [Microplastics Exposure Calculator](https://github.com/JinwooK-res/microplastic-exposure-calculator)
-
-Computational tool for reproducing dietary microplastics exposure calculations from published data.
-
-- React dashboard and Streamlit interface
-- Exposure and particle-mass calculations
-- Automated calculation tests
 
 ### [VOC Proficiency Evaluation](https://github.com/JinwooK-res/voc-proficiency-evaluation)
 
